@@ -3,7 +3,7 @@ Dev_LOOP
 
 ![alt text][pic1]
 
-Stereo HiZ preamp/Fx loop
+**Stereo HiZ preamp/Fx loop**
 
 Hi Z (1MOhm) stereo preamplifier / effect loop.
 
@@ -23,12 +23,11 @@ Power requirement:
 ![alt text][pic3]
 
  ------
-(c) 05.2014 by Piotr Zapart
+(c) 05.2014 by Piotr Zapart  
 www.hexeguitar.com
 
 License:
-Creative Commons - Attribution - ShareAlike 3.0 
-
+Creative Commons - Attribution - ShareAlike 3.0  
 [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 [pic1]: Pics/Dev_LOOP1.jpg "Dev_LOOP"
