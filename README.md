@@ -19,8 +19,13 @@ Power requirement: 9VDC, 5.5/2.1mm center negative barrel plug
 ![alt text][pic2]
 ![alt text][pic3]
 
+ ------
+(c) 05.2014 by Piotr Zapart 
+www.hexeguitar.com
+
 License:
 Creative Commons - Attribution - ShareAlike 3.0 
+
 [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 [pic1]: Pics/Dev_LOOP1.jpg "Dev_LOOP"
