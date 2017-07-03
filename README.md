@@ -14,13 +14,16 @@ Controls:
   * Mix/FX Level switch: sets the mixer operation mode
   * Output Level
 
-Power requirement: 9VDC, 5.5/2.1mm center negative barrel plug
+Power requirement: 
+
+  * 9VDC, 5.5/2.1mm center negative barrel plug
+  * 18mA current consumption
 
 ![alt text][pic2]
 ![alt text][pic3]
 
  ------
-(c) 05.2014 by Piotr Zapart 
+(c) 05.2014 by Piotr Zapart
 www.hexeguitar.com
 
 License:
